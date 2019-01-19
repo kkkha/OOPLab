@@ -13,4 +13,4 @@ Java Programs for Object Oriented Programming Lab in 3rd Semester.
 9. Generic Programming <br>
 10. File Operations <br>
 11. GUI Programming <br>
-12. Mini Project - AIko <br>
+12. Mini Project <br>
